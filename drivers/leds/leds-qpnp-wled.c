@@ -1359,7 +1359,6 @@ static int wled_auto_calibrate(struct qpnp_wled *wled)
 
 	if (!sink_config) {
 		pr_warn("No valid WLED sinks found\n");
-		wled->module_dis_perm = true;
 		goto failed_calib;
 	}
 
