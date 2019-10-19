@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-mkq-dev"
+CONFIG_LOCALVERSION="-mokee-upstream"
 # CONFIG_LOCALVERSION_AUTO is not set
 # CONFIG_USELIB is not set
 CONFIG_AUDIT=y
